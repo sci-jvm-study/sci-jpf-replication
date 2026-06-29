@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-configresolver_SCI_limit_500-run-1","real-configresolver","SCI","research.ConfigDependencyResolverBenchmark.resolveDependencies","283509200","40086200","243423000","48","95","95","95","94","74","5","1","34342192","42"
+"real-configresolver_SCI_limit_500-run-2","real-configresolver","SCI","research.ConfigDependencyResolverBenchmark.resolveDependencies","283173500","42584000","240589500","48","95","95","95","94","74","5","1","34294624","42"
+"real-configresolver_SCI_limit_500-run-3","real-configresolver","SCI","research.ConfigDependencyResolverBenchmark.resolveDependencies","318575200","48007500","270567700","48","95","95","95","94","74","5","1","34308272","42"

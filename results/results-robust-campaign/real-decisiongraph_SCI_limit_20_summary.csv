@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-decisiongraph_SCI_limit_20-run-1","real-decisiongraph","SCI","DecisionGraph.launch","126829900","1391000","125438900","1","22","22","22","21","44","10","0","8081456","42"
+"real-decisiongraph_SCI_limit_20-run-2","real-decisiongraph","SCI","DecisionGraph.launch","117587100","1339900","116247200","1","22","22","22","21","44","10","0","8044752","42"
+"real-decisiongraph_SCI_limit_20-run-3","real-decisiongraph","SCI","DecisionGraph.launch","147916800","3193600","144723200","1","22","22","22","21","44","10","0","8044864","42"

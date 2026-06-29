@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"mixed-dispatch-branches_Random_limit_10-run-1","mixed-dispatch-branches","Random","research.MixedDispatchAndBranches.runMixed","111858500","5712500","106146000","4","12","12","12","11","22","3","0","8046120","42"
+"mixed-dispatch-branches_Random_limit_10-run-2","mixed-dispatch-branches","Random","research.MixedDispatchAndBranches.runMixed","149445500","11322800","138122700","4","12","12","12","11","22","3","0","6723352","42"
+"mixed-dispatch-branches_Random_limit_10-run-3","mixed-dispatch-branches","Random","research.MixedDispatchAndBranches.runMixed","115601100","5685900","109915200","4","12","12","12","11","22","3","0","6723576","42"

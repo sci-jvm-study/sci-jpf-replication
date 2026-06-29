@@ -1,0 +1,2 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"run-0","TreeMap-BudgetTest","BFS","TreeMapSimple.runTreeMap","131551600","9000000","122551600","1","102","102","102","0","41","80","0","7943136","42"

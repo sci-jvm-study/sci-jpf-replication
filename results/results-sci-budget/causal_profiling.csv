@@ -1,0 +1,3 @@
+"Configuration","States Stored","Backtracks","ChoiceGens","Heap Allocated","GC Cycles","Bytecodes Run"
+"Polymorphic Dynamic Dispatch","1457","1457","728","68555","1093","1973107"
+"Direct Branch Control","1457","1457","728","66025","730","1844889"

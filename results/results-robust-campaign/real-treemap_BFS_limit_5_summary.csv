@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-treemap_BFS_limit_5-run-1","real-treemap","BFS","TreeMapSimple.runTreeMap","89152600","9823400","79329200","1","7","7","7","0","27","4","0","5289240","42"
+"real-treemap_BFS_limit_5-run-2","real-treemap","BFS","TreeMapSimple.runTreeMap","71235200","8221000","63014200","1","7","7","7","0","27","4","0","5285328","42"
+"real-treemap_BFS_limit_5-run-3","real-treemap","BFS","TreeMapSimple.runTreeMap","71292900","8316600","62976300","1","7","7","7","0","27","4","0","5294176","42"

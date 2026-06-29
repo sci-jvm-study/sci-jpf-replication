@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"mixed-dispatch-branches_DFS_limit_200-run-1","mixed-dispatch-branches","DFS","research.MixedDispatchAndBranches.runMixed","154189100","26761500","127427600","13","25","25","25","24","25","2","0","8046176","42"
+"mixed-dispatch-branches_DFS_limit_200-run-2","mixed-dispatch-branches","DFS","research.MixedDispatchAndBranches.runMixed","156166100","19783700","136382400","13","25","25","25","24","25","2","0","8045984","42"
+"mixed-dispatch-branches_DFS_limit_200-run-3","mixed-dispatch-branches","DFS","research.MixedDispatchAndBranches.runMixed","147648400","24318100","123330300","13","25","25","25","24","25","2","0","8044992","42"

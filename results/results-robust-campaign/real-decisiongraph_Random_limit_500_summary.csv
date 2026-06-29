@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-decisiongraph_Random_limit_500-run-1","real-decisiongraph","Random","DecisionGraph.launch","665519700","108397500","557122200","132","502","502","502","501","57","118","1","34349536","42"
+"real-decisiongraph_Random_limit_500-run-2","real-decisiongraph","Random","DecisionGraph.launch","801388100","129487300","671900800","132","502","502","502","501","57","118","1","34287792","42"
+"real-decisiongraph_Random_limit_500-run-3","real-decisiongraph","Random","DecisionGraph.launch","776817100","128766500","648050600","132","502","502","502","501","57","118","1","34319672","42"

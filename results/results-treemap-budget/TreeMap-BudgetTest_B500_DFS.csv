@@ -1,0 +1,2 @@
+run_id,benchmark,search_strategy,method_label,path_index,status,state_id,depth,constraint_count,solver_time_ns,sat,has_exception,has_loop,has_division,has_nested_branch,has_dispatch,branches_covered,pc
+"run-0","TreeMap-BudgetTest","DFS","TreeMapSimple.runTreeMap","1","END","16","-1","0","9306400","true","true","true","false","true","false","21","constraint # = 0"

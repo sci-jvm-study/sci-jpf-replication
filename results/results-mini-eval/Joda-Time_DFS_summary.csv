@@ -1,0 +1,7 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"DFS-rep-0","Joda-Time","DFS","research.OpenSourceLibraryBenchmarks.jodaLocalDateReal","72619500","1472100","71147400","3","5","5","5","4","68","1","0","9249112","42"
+"DFS-rep-1","Joda-Time","DFS","research.OpenSourceLibraryBenchmarks.jodaLocalDateReal","71567500","1358000","70209500","3","5","5","5","4","68","1","0","9248768","42"
+"DFS-rep-2","Joda-Time","DFS","research.OpenSourceLibraryBenchmarks.jodaLocalDateReal","87055000","1535000","85520000","3","5","5","5","4","68","1","0","9248784","42"
+"DFS-rep-3","Joda-Time","DFS","research.OpenSourceLibraryBenchmarks.jodaLocalDateReal","71532400","1548300","69984100","3","5","5","5","4","68","1","0","9279784","42"
+"DFS-rep-4","Joda-Time","DFS","research.OpenSourceLibraryBenchmarks.jodaLocalDateReal","74239600","1603300","72636300","3","5","5","5","4","68","1","0","9248536","42"
+"DFS-rep-5","Joda-Time","DFS","research.OpenSourceLibraryBenchmarks.jodaLocalDateReal","77984100","1567100","76417000","3","5","5","5","4","68","1","0","9279536","42"

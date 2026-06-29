@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,path_index,status,state_id,depth,constraint_count,solver_time_ns,sat,has_exception,has_loop,has_division,has_nested_branch,has_dispatch,branches_covered,pc
+"real-treemap_BFS_limit_50-run-1","real-treemap","BFS","TreeMapSimple.runTreeMap","1","END","10","-1","0","12059700","true","true","true","false","true","false","37","constraint # = 0"
+"real-treemap_BFS_limit_50-run-2","real-treemap","BFS","TreeMapSimple.runTreeMap","1","END","10","-1","0","9618900","true","true","true","false","true","false","37","constraint # = 0"
+"real-treemap_BFS_limit_50-run-3","real-treemap","BFS","TreeMapSimple.runTreeMap","1","END","10","-1","0","11200900","true","true","true","false","true","false","37","constraint # = 0"

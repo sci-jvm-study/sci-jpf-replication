@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-expressionevaluator_SCI_limit_500-run-1","real-expressionevaluator","SCI","research.ExpressionEvaluatorBenchmark.evaluateExpressionSymbolic","101878600","3133900","98744700","6","13","13","13","12","42","1","0","8113272","42"
+"real-expressionevaluator_SCI_limit_500-run-2","real-expressionevaluator","SCI","research.ExpressionEvaluatorBenchmark.evaluateExpressionSymbolic","93009800","2902100","90107700","6","13","13","13","12","42","1","0","9285568","42"
+"real-expressionevaluator_SCI_limit_500-run-3","real-expressionevaluator","SCI","research.ExpressionEvaluatorBenchmark.evaluateExpressionSymbolic","88735100","2533700","86201400","6","13","13","13","12","42","1","0","8109376","42"

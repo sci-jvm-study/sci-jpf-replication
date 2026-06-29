@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-treemap_SCI_limit_100-run-1","real-treemap","SCI","TreeMapSimple.runTreeMap","136867200","9208500","127658700","1","102","102","102","0","47","80","0","9252176","42"
+"real-treemap_SCI_limit_100-run-2","real-treemap","SCI","TreeMapSimple.runTreeMap","138571300","9046200","129525100","1","102","102","102","0","47","80","0","9251208","42"
+"real-treemap_SCI_limit_100-run-3","real-treemap","SCI","TreeMapSimple.runTreeMap","169401600","17713700","151687900","1","102","102","102","0","47","80","0","9254104","42"

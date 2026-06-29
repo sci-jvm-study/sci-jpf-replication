@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-treemap_Random_limit_200-run-1","real-treemap","Random","TreeMapSimple.runTreeMap","180601800","8880200","171721600","131","202","202","202","0","47","30","0","13212496","42"
+"real-treemap_Random_limit_200-run-2","real-treemap","Random","TreeMapSimple.runTreeMap","168453500","8336800","160116700","131","202","202","202","0","47","30","0","13222384","42"
+"real-treemap_Random_limit_200-run-3","real-treemap","Random","TreeMapSimple.runTreeMap","194462900","10456600","184006300","131","202","202","202","0","47","30","0","13219536","42"

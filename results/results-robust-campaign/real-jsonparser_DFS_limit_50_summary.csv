@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-jsonparser_DFS_limit_50-run-1","real-jsonparser","DFS","research.JsonParserBenchmark.parseJsonSymbolic","305888900","35506100","270382800","23","52","52","52","51","63","3","0","13371912","42"
+"real-jsonparser_DFS_limit_50-run-2","real-jsonparser","DFS","research.JsonParserBenchmark.parseJsonSymbolic","225286200","21327900","203958300","23","52","52","52","51","63","3","0","13409536","42"
+"real-jsonparser_DFS_limit_50-run-3","real-jsonparser","DFS","research.JsonParserBenchmark.parseJsonSymbolic","361227800","33483900","327743900","23","52","52","52","51","63","3","0","13412096","42"

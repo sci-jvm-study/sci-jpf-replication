@@ -1,0 +1,5 @@
+run_id,benchmark,search_strategy,method_label,path_index,status,state_id,depth,constraint_count,solver_time_ns,sat,has_exception,has_loop,has_division,has_nested_branch,has_dispatch,branches_covered,pc
+"DFS-rep-0","TreeMap-Scaled","DFS","TreeMapSimple.runTreeMap","1","END","26","-1","0","8662700","true","true","true","false","true","false","38","constraint # = 0"
+"DFS-rep-1","TreeMap-Scaled","DFS","TreeMapSimple.runTreeMap","1","END","26","-1","0","11366100","true","true","true","false","true","false","38","constraint # = 0"
+"DFS-rep-2","TreeMap-Scaled","DFS","TreeMapSimple.runTreeMap","1","END","26","-1","0","10566300","true","true","true","false","true","false","38","constraint # = 0"
+"DFS-rep-3","TreeMap-Scaled","DFS","TreeMapSimple.runTreeMap","1","END","26","-1","0","10743900","true","true","true","false","true","false","38","constraint # = 0"

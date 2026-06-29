@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-jsonparser_SCIPure_limit_50-run-1","real-jsonparser","SCIPure","research.JsonParserBenchmark.parseJsonSymbolic","173760800","16297600","157463200","23","52","52","52","51","63","3","0","13212656","42"
+"real-jsonparser_SCIPure_limit_50-run-2","real-jsonparser","SCIPure","research.JsonParserBenchmark.parseJsonSymbolic","178113800","16144500","161969300","23","52","52","52","51","63","3","0","13396472","42"
+"real-jsonparser_SCIPure_limit_50-run-3","real-jsonparser","SCIPure","research.JsonParserBenchmark.parseJsonSymbolic","161018300","16706600","144311700","23","52","52","52","51","63","3","0","13212872","42"

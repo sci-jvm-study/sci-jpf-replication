@@ -1,0 +1,5 @@
+run_id,benchmark,search_strategy,method_label,path_index,status,state_id,depth,constraint_count,solver_time_ns,sat,has_exception,has_loop,has_division,has_nested_branch,has_dispatch,branches_covered,pc
+"SCI-rep-0","TreeMap-Scaled","SCI","TreeMapSimple.runTreeMap","1","END","616","-1","0","9234500","true","true","true","false","true","false","58","constraint # = 0"
+"SCI-rep-1","TreeMap-Scaled","SCI","TreeMapSimple.runTreeMap","1","END","616","-1","0","8536500","true","true","true","false","true","false","58","constraint # = 0"
+"SCI-rep-2","TreeMap-Scaled","SCI","TreeMapSimple.runTreeMap","1","END","616","-1","0","8230700","true","true","true","false","true","false","58","constraint # = 0"
+"SCI-rep-3","TreeMap-Scaled","SCI","TreeMapSimple.runTreeMap","1","END","611","-1","0","8927300","true","true","true","false","true","false","58","constraint # = 0"

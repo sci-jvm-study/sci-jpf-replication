@@ -1,0 +1,9 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"DFS-rep-0","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","68300600","8192700","60107900","1","1","1","1","0","68","0","0","5286408","42"
+"DFS-rep-1","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","58201800","8610200","49591600","1","1","1","1","0","68","0","0","5298184","42"
+"DFS-rep-2","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","60070700","8303200","51767500","1","1","1","1","0","68","0","0","5285048","42"
+"DFS-rep-3","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","58289900","7957500","50332400","1","1","1","1","0","68","0","0","5284952","42"
+"DFS-rep-0","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","47220399200","14392510600","32827888600","19683","39365","39365","39365","39364","68","17","10","1688479240","42"
+"DFS-rep-1","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","46940059700","14406635800","32533423900","19683","39365","39365","39365","39364","68","17","10","1689494992","42"
+"DFS-rep-2","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","75208321200","23103552900","52104768300","19683","39365","39365","39365","39364","68","17","10","1687127648","42"
+"DFS-rep-3","Guava-I9","DFS","research.OpenSourceLibraryBenchmarks.guavaPreconditionsScaled9","125531901900","38125515400","87406386500","19683","39365","39365","39365","39364","68","17","10","1687856024","42"

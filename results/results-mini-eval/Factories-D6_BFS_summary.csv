@@ -1,0 +1,7 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"BFS-rep-0","Factories-D6","BFS","research.RealDispatchBenchmarks.factoriesDepth6RealStyle","333148200","5014100","328134100","12","202","202","202","201","30","88","1","34341856","42"
+"BFS-rep-1","Factories-D6","BFS","research.RealDispatchBenchmarks.factoriesDepth6RealStyle","297434800","5081100","292353700","12","202","202","202","201","30","88","1","34344096","42"
+"BFS-rep-2","Factories-D6","BFS","research.RealDispatchBenchmarks.factoriesDepth6RealStyle","300083700","7017000","293066700","12","202","202","202","201","30","88","1","34319840","42"
+"BFS-rep-3","Factories-D6","BFS","research.RealDispatchBenchmarks.factoriesDepth6RealStyle","286585200","7859900","278725300","12","202","202","202","201","30","88","1","34342136","42"
+"BFS-rep-4","Factories-D6","BFS","research.RealDispatchBenchmarks.factoriesDepth6RealStyle","295073300","5077900","289995400","12","202","202","202","201","30","88","1","34342664","42"
+"BFS-rep-5","Factories-D6","BFS","research.RealDispatchBenchmarks.factoriesDepth6RealStyle","352552300","6498200","346054100","12","202","202","202","201","30","88","1","34341536","42"

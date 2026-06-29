@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"adverse-dispatch-branches_SCI_limit_100-run-1","adverse-dispatch-branches","SCI","research.AdverseDispatchAndBranches.runAdverse","144832000","4550300","140281700","10","19","19","19","18","25","1","0","8045152","42"
+"adverse-dispatch-branches_SCI_limit_100-run-2","adverse-dispatch-branches","SCI","research.AdverseDispatchAndBranches.runAdverse","208987500","8602300","200385200","10","19","19","19","18","25","1","0","8051936","42"
+"adverse-dispatch-branches_SCI_limit_100-run-3","adverse-dispatch-branches","SCI","research.AdverseDispatchAndBranches.runAdverse","137295200","4609900","132685300","10","19","19","19","18","25","1","0","8081544","42"

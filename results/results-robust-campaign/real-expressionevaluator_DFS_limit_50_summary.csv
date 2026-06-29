@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-expressionevaluator_DFS_limit_50-run-1","real-expressionevaluator","DFS","research.ExpressionEvaluatorBenchmark.evaluateExpressionSymbolic","86364800","2262100","84102700","6","13","13","13","12","42","1","0","8044776","42"
+"real-expressionevaluator_DFS_limit_50-run-2","real-expressionevaluator","DFS","research.ExpressionEvaluatorBenchmark.evaluateExpressionSymbolic","83802600","2180800","81621800","6","13","13","13","12","42","1","0","8044864","42"
+"real-expressionevaluator_DFS_limit_50-run-3","real-expressionevaluator","DFS","research.ExpressionEvaluatorBenchmark.evaluateExpressionSymbolic","88591800","2296100","86295700","6","13","13","13","12","42","1","0","8081488","42"

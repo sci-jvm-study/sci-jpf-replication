@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-decisiongraph_BFS_limit_200-run-1","real-decisiongraph","BFS","DecisionGraph.launch","368863000","3598100","365264900","1","202","202","202","201","56","100","0","18616056","42"
+"real-decisiongraph_BFS_limit_200-run-2","real-decisiongraph","BFS","DecisionGraph.launch","378878700","3908000","374970700","1","202","202","202","201","56","100","0","18683696","42"
+"real-decisiongraph_BFS_limit_200-run-3","real-decisiongraph","BFS","DecisionGraph.launch","370663100","4215300","366447800","1","202","202","202","201","56","100","0","18683656","42"

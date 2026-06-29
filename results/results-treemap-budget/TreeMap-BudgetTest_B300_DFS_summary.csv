@@ -1,0 +1,2 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"run-0","TreeMap-BudgetTest","DFS","TreeMapSimple.runTreeMap","177710600","8222600","169488000","236","302","302","302","0","41","12","0","15865328","42"

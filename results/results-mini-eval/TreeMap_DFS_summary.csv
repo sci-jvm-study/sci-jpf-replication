@@ -1,0 +1,7 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"DFS-rep-0","TreeMap","DFS","TreeMapSimple.runTreeMap","149539600","6308300","143231300","625","781","781","781","0","41","12","0","31718472","42"
+"DFS-rep-1","TreeMap","DFS","TreeMapSimple.runTreeMap","148744400","7722100","141022300","625","781","781","781","0","41","12","0","31718696","42"
+"DFS-rep-2","TreeMap","DFS","TreeMapSimple.runTreeMap","149102300","6152000","142950300","625","781","781","781","0","41","12","0","31724184","42"
+"DFS-rep-3","TreeMap","DFS","TreeMapSimple.runTreeMap","153521800","6614500","146907300","625","781","781","781","0","41","12","0","31717224","42"
+"DFS-rep-4","TreeMap","DFS","TreeMapSimple.runTreeMap","145403400","6184500","139218900","625","781","781","781","0","41","12","0","31715464","42"
+"DFS-rep-5","TreeMap","DFS","TreeMapSimple.runTreeMap","154593400","6584200","148009200","625","781","781","781","0","41","12","0","31727920","42"

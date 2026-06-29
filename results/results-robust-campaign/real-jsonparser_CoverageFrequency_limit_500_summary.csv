@@ -1,0 +1,4 @@
+run_id,benchmark,search_strategy,method_label,total_elapsed_ns,total_solver_time_ns,engine_time_ns,completed_paths,new_states,state_advanced_events,choice_generators,pc_choice_generators,branches_covered,max_queue_size,gc_cycles,heap_allocations_bytes,reproducible_seed
+"real-jsonparser_CoverageFrequency_limit_500-run-1","real-jsonparser","CoverageFrequency","research.JsonParserBenchmark.parseJsonSymbolic","359726900","76265300","283461600","59","125","125","125","124","73","5","0","21324560","42"
+"real-jsonparser_CoverageFrequency_limit_500-run-2","real-jsonparser","CoverageFrequency","research.JsonParserBenchmark.parseJsonSymbolic","678627400","147978700","530648700","59","125","125","125","124","73","5","0","21327272","42"
+"real-jsonparser_CoverageFrequency_limit_500-run-3","real-jsonparser","CoverageFrequency","research.JsonParserBenchmark.parseJsonSymbolic","436917000","96764300","340152700","59","125","125","125","124","73","5","0","21263320","42"
